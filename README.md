@@ -1,3 +1,2 @@
-# projects
-this is a tutorial project
-Hello world
+# |Projects
+Side projects, major school projects
